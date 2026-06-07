@@ -57,11 +57,11 @@ Features:
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+Added Screenshots
 
 ### Product Performance Analysis
 
-![Product Performance](Product_Performance.png)
+Added Screenshots
 
 ## Project Files
 
